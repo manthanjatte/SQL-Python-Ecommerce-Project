@@ -51,7 +51,7 @@ Revenue rankings of sellers across years.
 
 ## 👤 Author
 ## Manthan Jatte
-## Data Analyst & Power BI Developer
+## Data Analyst & Python Developer
 ## 📍 Based in Mumbai, India
 📫 LinkedIn (www.linkedin.com/in/manthan-jatte-690358214)
 🧠 Tools: SQL, Python (Pandas, NumPy), Power BI, Excel
